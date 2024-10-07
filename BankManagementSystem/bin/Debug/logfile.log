@@ -1,0 +1,3 @@
+2024-10-07 09:47:10,997 [1] ERROR BankManagementSystem.Logger - Account Not Found , Please input valid account number
+2024-10-07 09:47:19,460 [1] ERROR BankManagementSystem.Logger - Account Not Found , Please input valid account number
+2024-10-07 09:47:48,392 [1] INFO  BankManagementSystem.Logger - An account with acoount number 12345 has been created successfully
